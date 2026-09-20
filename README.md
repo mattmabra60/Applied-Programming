@@ -1,27 +1,26 @@
-# Project Title (Update)
+# Hello World (Update)
 
-A python script that writes hello world to the terminal.
+A .exe file that writes hello world to the console.
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. Download vscode and vscommunity from the microsoft store or web
-2. Download an applicable version of .net extension pack from either the Extensions manager
-3. Select the Path in vsvodecommunity developement environment
-4. Run the Hello_World.cpp file
+1. Open file explorer and navigate to Hello_world.exe in your downloads
+2. Double click Hello_world.exe to run it
 
 Instructions for using the software:
 
-1. Click the run or debug arrow in the top right of your screen
-2. Watch the terminal as it prints "Hello World"
+1. After running the Hello_world.exe file watch the console pop up as it prints "Hello World" be careful though its really quick
 
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* As mentioned previosly the most recent edition of vscode and vscommunity from the microsoft website or store
-* vscode with vsvodecommunity as developement environment
+* Download vscode and vscommunity from the microsoft store or web
+* Download an applicable version of .net extension pack from either the Extensions manager
+* Select the Path in vsvodecommunity developement environment
+* Run the Hello_World.cpp file
 
 ## Useful Websites to Learn More
 
